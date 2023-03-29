@@ -8,7 +8,6 @@
 <img src="site.png">
 
 ### Acesse o projeto clicando <a href="https://LuckyCodes-App.github.io/EmBreve/index.html" target="_blank"> aqui</a>
-> Página de lançamento da Lucky Codes.
 
 ## 🚀 Instalando EmBreve
 
